@@ -22,4 +22,4 @@ Welcome to **Meowsome Facts**, your one-tap gateway to stress relief and random 
 * [Cat Image API](https://cataas.com/)
 
 ---
-[![Download to become a Meowsome person]](https://github.com/masked-mermaid/MeowsomeApp/releases/download/v1.0.02-test/app-release.apk)
+[![Download to become a MEOWsome person 😸]](https://github.com/masked-mermaid/MeowsomeApp/releases/download/v1.0.02-test/app-release.apk)
