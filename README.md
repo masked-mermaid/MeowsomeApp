@@ -1,16 +1,25 @@
-# meowsome
+# 🐾 Meowsome Facts
 
-A new Flutter project.
+Take the weight of the world off your shoulders with a little app that delivers exactly what the internet was made for — **cute cat pics and quirky feline facts**.
 
-## Getting Started
+Welcome to **Meowsome Facts**, your one-tap gateway to stress relief and random cat wisdom.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+##  Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* 📸 Fetches a **random image of our Feline lords🐈🤲**
+* 📖 Displays a **fun and quirky cat facts**
+* 🔁 All with a **single button click**
+* 🐱 100% cat-approved content
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Built With
+
+* [Flutter](https://flutter.dev/)
+* [Cat Fact API](https://catfact.ninja/)
+* [Cat Image API](https://cataas.com/)
+
+---
+
